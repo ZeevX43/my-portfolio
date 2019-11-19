@@ -5,5 +5,6 @@ This is my professional portfolio. It uses AWS and ReactJS.
 
 ## tech use
 
-git and github
-ssh
+Brew
+Git and github
+SSH
